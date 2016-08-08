@@ -1,4 +1,4 @@
-# unfinished-Windows-Media-Player-WMV-clone
+# Windows-Media-Player-WMV-clone
 
 This project is not finished yet.
 
